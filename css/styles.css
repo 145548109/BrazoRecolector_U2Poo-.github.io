@@ -11119,6 +11119,15 @@ body {
   margin-bottom: 5rem;
 }
 
+.uml-section {
+  padding: 4rem 0;
+  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+}
+
+.uml-section p{
+  margin-bottom: 5rem;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
