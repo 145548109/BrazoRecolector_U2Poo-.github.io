@@ -11,6 +11,8 @@ PAGINA WEB.
 
 -Joel Tapia
 
+LINK DE LA PAGINA: https://145548109.github.io/BrazoRecolector_U2Poo-.github.io/
+
 REPOSITORIO DEL CODIGO DEL BRAZO: https://github.com/145548109/Codigo-Brazo-R---U2.git
 
 RECURSOS USADOS PARA PÁGINA WEB:
