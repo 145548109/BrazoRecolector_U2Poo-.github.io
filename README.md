@@ -1,5 +1,5 @@
-# 145548109.github.io
-Segundo avance PIS. Grupo 1 
+# Proyecto Integrador de Saberes
+Segundo avance. Grupo 1 
 
 PAGINA WEB.
 
