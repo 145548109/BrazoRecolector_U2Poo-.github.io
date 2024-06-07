@@ -1,5 +1,5 @@
-# 145548109.github.io
-Segundo avance PIS. Grupo 1 
+# Proyecto Integrador de Saberes
+Segundo avance. Grupo 1 
 
 PAGINA WEB.
 
@@ -13,6 +13,8 @@ PAGINA WEB.
 
 REPOSITORIO DEL CODIGO DEL BRAZO: https://github.com/145548109/Codigo-Brazo-R---U2.git
 
+RECURSOS USADOS PARA PÁGINA WEB:
+https://github.com/145548109/RecursosPIS2
 
 IMAGENES SITIO RESPONSIVO:
 
